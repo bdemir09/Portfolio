@@ -1,5 +1,6 @@
 # Portfolio
-This repository showcases my computational chemistry, biophysics, and materials science work, focusing on molecular dynamics simulations and density functional theory calculations.
+This repository showcases my computational chemistry, biophysics, and materials science work, focusing on molecular dynamics simulations and density functional theory calculations. These projects demonstrate my broad range of capabilities, transferable to any molecular system, from biomolecules and drug discovery to materials design and surface interactions.
+Feel free to contact me for collaborations or inquiries.
 
 ## Advanced Molecular Dynamics & Computational Biophysics Projects:
 
